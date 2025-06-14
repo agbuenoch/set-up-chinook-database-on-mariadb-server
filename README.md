@@ -35,8 +35,9 @@ After installing MariaDB, `start` and `enable` the MariaDB server. The command
 sudo systemctl start mariadb
 ```
 will start the MariaDB server. You will be prompted to enter your password to be able to run the specified command and start the server as pointed to by the 1st arrow. For any wrong password you enter, you will be prompted to re-enter the password as pointed to by the 2nd arrow. If successful, you will be redirected to the next prompt as pointed to by the 4th arrow.
->Always remember to `start` the MariaDB server if you previously `stopped` it.<br>
- **[View step1C](screenshots/step1C.png)**
+>Always remember to `start` the MariaDB server if you previously `stopped` it.
+
+**[View step1C](screenshots/step1C.png)**
 
 The command
 ```
