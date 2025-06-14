@@ -255,7 +255,7 @@ will `start` the server, hence when we run `sudo mariadb`, we can access it as p
 This setup provides a complete local environment for practising `SQL` on the `Chinook database` using a `MariaDB server` and `Linux Bash`.
 
 ## LinkedIn Article.
-- [How to set up “Chinook Database” on MariaDB Server using Linux Bash]()<br>
+- [How to set up “Chinook Database” on MariaDB Server using Linux Bash](https://www.linkedin.com/pulse/how-set-up-chinook-database-mariadb-server-using-linux-enoch-agbu-8cgff/)<br>
 
 ## Connect with me.
 [🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)<br>
